@@ -1,0 +1,11 @@
+a:-webkit-any-link {
+    color: rgb(137, 197, 199);
+    cursor: pointer;
+    margin-left: 12px;
+    margin-right: 12px;
+    text-decoration: none;
+}
+.btn-switch{
+ margin-right: 12px !important;
+}
+
